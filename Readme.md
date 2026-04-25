@@ -26,7 +26,7 @@ This project implements fundamental cryptographic algorithms including AES (symm
 ##  Project Structure
 
 ```
-Cryptography_implementation/
+Cryptography_implementation
 │
 ├── screenshots
 ├── aes.py
