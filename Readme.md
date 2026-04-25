@@ -72,19 +72,19 @@ python main.py
 
 ### 🔹 Main Menu
 
-![Menu](screenshots/menu.png)
+![Menu](screenshots/main menu.png)
 
 ### 🔹 AES Encryption/Decryption
 
-![AES](screenshots/aes.png)
+![AES](screenshots/AES.png)
 
 ### 🔹 RSA Encryption/Decryption
 
-![RSA](screenshots/rsa.png)
+![RSA](screenshots/RSA.png)
 
 ### 🔹 SHA256 Hashing
 
-![SHA](screenshots/sha.png)
+![SHA](screenshots/SHA.png)
 
 ## 🔐 OpenSSL Commands (Optional)
 
