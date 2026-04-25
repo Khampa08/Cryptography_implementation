@@ -6,7 +6,7 @@ This project implements fundamental cryptographic algorithms including AES (symm
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Cryptography Library
@@ -15,7 +15,7 @@ This project implements fundamental cryptographic algorithms including AES (symm
 
 ---
 
-## 🔑 Features
+##  Features
 
 * AES Encryption & Decryption
 * RSA Public/Private Key Encryption
@@ -23,7 +23,7 @@ This project implements fundamental cryptographic algorithms including AES (symm
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 cryptography-project/
@@ -61,7 +61,7 @@ python main.py
 
 ---
 
-## ▶️ Sample Output
+##  Sample Output
 
 * AES encryption and decryption of messages
 * RSA secure communication using public/private keys
@@ -72,7 +72,7 @@ python main.py
 
 ### 🔹 Main Menu
 
-![Menu](screenshots/main menu.png)
+![Menu](screenshots/main_menu.png)
 
 ### 🔹 AES Encryption/Decryption
 
@@ -86,7 +86,7 @@ python main.py
 
 ![SHA](screenshots/SHA.png)
 
-## 🔐 OpenSSL Commands (Optional)
+## OpenSSL Commands (Optional)
 
 ```
 openssl genrsa -out private.pem 2048
@@ -95,7 +95,7 @@ openssl rsa -in private.pem -pubout -out public.pem
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * Understanding symmetric and asymmetric encryption
 * Basics of cryptographic hashing
