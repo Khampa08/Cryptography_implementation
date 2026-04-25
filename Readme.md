@@ -68,6 +68,23 @@ python main.py
 * SHA256 hashing of input messages
 
 ---
+## 📸 Screenshots
+
+### 🔹 Main Menu
+
+![Menu](screenshots/menu.png)
+
+### 🔹 AES Encryption/Decryption
+
+![AES](screenshots/aes.png)
+
+### 🔹 RSA Encryption/Decryption
+
+![RSA](screenshots/rsa.png)
+
+### 🔹 SHA256 Hashing
+
+![SHA](screenshots/sha.png)
 
 ## 🔐 OpenSSL Commands (Optional)
 
