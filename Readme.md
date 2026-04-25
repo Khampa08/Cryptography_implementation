@@ -44,7 +44,7 @@ Cryptography_implementation/
 ### 1. Clone the repository
 
 ```
-https://github.com/Khampa08/Cryptography_implementation.git
+git clone https://github.com/Khampa08/Cryptography_implementation.git
 cd Cryptography_implementation
 ```
 
