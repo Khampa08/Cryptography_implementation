@@ -28,6 +28,7 @@ This project implements fundamental cryptographic algorithms including AES (symm
 ```
 cryptography-project/
 │
+├── screenshots
 ├── aes.py
 ├── rsa.py
 ├── sha.py
@@ -43,8 +44,8 @@ cryptography-project/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/cryptography-project.git
-cd cryptography-project
+https://github.com/Khampa08/Cryptography_implementation.git
+cd Cryptography_implementation
 ```
 
 ### 2. Install dependencies
@@ -105,7 +106,7 @@ openssl rsa -in private.pem -pubout -out public.pem
 
 ## 👨‍💻 Author
 
-Your Name
+Khampa Basumatary
 
 ---
 
